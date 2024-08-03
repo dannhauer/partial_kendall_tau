@@ -17,6 +17,6 @@ p_corr: float. The partial Kendall's tau correlation coefficient.
 se_p_corr: float. The standard error of the partial correlation coefficient from bootstrapping.
 p_val: float. The p-value from the permutation test.
 
-** Use Case: Astrophysics Example **
+**Use Case: Astrophysics Example**
 
 In astrophysics, this function can be used to analyze the trend between luminosities in flux-limited samples while correcting for the effect of redshift. For example, when studying the relationship between two luminosity measurements, one might want to account for the influence of redshift to determine if the observed correlation is intrinsic or driven by the redshift.
